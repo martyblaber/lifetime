@@ -1,1 +1,1 @@
-import numpy as npdef example_one():    return np.array[[1.1, 2.2, 3.3, 3.2, 1.5, 4.6, 7.5],                    [  1,   0,   0,   1,   0,   0,   0]]        
+import numpy as npdef example_one():    return np.array([[4.8, 1],                     [5.9, 1],                     [2.5, 0],                     [8.1, 0],                     [2.8, 0],                     [3.4, 1],                     [4.8, 0],                     [9.7, 0]])        
